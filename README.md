@@ -34,3 +34,6 @@ Use multiple machine learning algorithms to create a model that will predict cre
 - The calculated accuracy is 92.54%.
 - Precision is approximately 90.8%.
 - Recall is approximately 7.47.
+
+## Summary
+All of the models that were used, except fot the Ensemble Classifier, showed weak perfarmance in determining credit card risk. The model predicts correctly over 90% of the time. We recommend only this model be used for practical purposes. The others do not perform confidently enough.
