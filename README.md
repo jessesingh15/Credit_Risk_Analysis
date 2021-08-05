@@ -14,8 +14,8 @@ Use multiple machine learning algorithms to create a model that will predict cre
 - The calculated accuracy score is 62.67%
 - Precision is approximately 60.92%.
 - Recall is approximately 0.86.
--
-- ### ClusterCentroids Undersampling
+
+### ClusterCentroids Undersampling
 - The calculated accuracy score is 51%
 - Precision is approximately 58.62%.
 - Recall is approximately 0.52.
