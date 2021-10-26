@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of Analysis
-Use multiple machine learning algorithms to create a model that will predict credit card risk. The models were created using credit data from LendingClub.
+Use multiple machine learning algorithms to create a model that will predict credit card risk (results and type listed below). The models were created using credit data from LendingClub.
 
 ## Results
 
